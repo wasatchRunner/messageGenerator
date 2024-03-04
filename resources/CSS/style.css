@@ -54,6 +54,11 @@ button:hover{
     background-color: rgb(236, 236, 236);
 }
 
-#messages{
-    padding: 2rem;
+#message{
+    padding: 2.5rem;
+}
+
+#author{
+    color: rgb(39, 38, 38);
+    font-size: .9rem;
 }
